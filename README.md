@@ -57,6 +57,6 @@ The proxy server successfully handles the following HTTP websites:
 - http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file3.html
 - http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html
 - http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file5.html
-- http://www.example.com/
+- http://www.example.com
 
 **Note**: The proxy server only handles HTTP requests. It does not support HTTPS requests. For example, HTTPS websites like `https://www.google.com` will not work with this proxy server.
