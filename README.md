@@ -4,4 +4,6 @@ This assignment basic socket programming for TCP connections in Python, creating
 
 ### Part 1: Web Server
 
+### Part 2: Proxy Server
+
 
