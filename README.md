@@ -39,7 +39,7 @@ This will display a `404 Not Found` error.
 ### Running the Proxy Server
 
 To run the **proxyserver.py** file:
-1. Open a command prompt and navigate to the directory containing the file:
+1. Open a command prompt and navigate to the directory containing the file. For example:
 cd OneDrive/Desktop/Sattar-Adiyat-assignment1
 2. Run the proxy server:
 python proxyserver.py
